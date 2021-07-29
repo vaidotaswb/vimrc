@@ -94,7 +94,7 @@ filetype indent on
 let mapleader = ","
 
 " choose the version of python for python-mode to use
-"let g:pymode_python = "python" " options are python and python3
+let g:pymode_python = "python3" " options are python and python3
 
 " visual autocomplete for command menu when pres <tab>
 set wildmenu
